@@ -1,0 +1,5 @@
+train: ../YOLO_train/images
+val: ../YOLO_valid/images
+
+nc: 2
+names: ['idu', 'wall_plate']
